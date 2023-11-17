@@ -1,2 +1,6 @@
 print("welcome")
 print("welcome, again")
+
+// Show some greetings image
+
+// Ask the user what they want to drink
