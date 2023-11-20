@@ -1,0 +1,2 @@
+// Stage file content
+// Additional content of the stage file
