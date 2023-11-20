@@ -1,2 +1,0 @@
-// This is a new file created while on a "new-branch" branch.
-// This program knows how to fly to the moon.
