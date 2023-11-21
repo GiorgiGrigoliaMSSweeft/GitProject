@@ -1,0 +1,8 @@
+// Stage file content
+// Additional content of the stage file
+// Another piece of content for the stage file
+
+** The text inside of the double asterisk won't be shown **
+** Additional checker **
+
+** Everything including this sentence should be visible by now **
