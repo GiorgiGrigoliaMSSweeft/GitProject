@@ -1,1 +1,2 @@
 // Trying to have a conflict!
+// Adding this sentence on master branch.
