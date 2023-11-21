@@ -1,2 +1,5 @@
 // Trying to have a conflict!
 // Adding this sentence on master branch.
+// Adding this line from the branch "issue"
+
+// Resolving the conflict while inserting this line
