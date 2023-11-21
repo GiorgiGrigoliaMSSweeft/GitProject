@@ -1,2 +1,1 @@
 // This file was uploaded using git commit -a -m "someMessage"
-// This way it skips the staging area and there is no need to add it first and then commit it.
