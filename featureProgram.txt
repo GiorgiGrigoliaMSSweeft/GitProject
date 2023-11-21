@@ -1,2 +1,4 @@
 // This is a new feature that will be added to the master branch.
 // Currently we are on the feature branch.
+
+** Now we are already on the master branch, editing this file, and commiting it afterwards **
